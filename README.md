@@ -1,6 +1,8 @@
 # Dynamic Menu
 Introducing Dynamic Menu, a revolutionary and innovative navigation menu.
 
+## THIS REPO HAS BEEN ARCHIVED AND THE CONTENT HAS BEEN MOVED TO [THIS ONE](https://github.com/eduardconstantin/react-motion-components)
+
 <h2 align="center">:arrow_up_small: With two opening states :arrow_down_small:</h2>
 <table align="center">
     <tr width="100%">
